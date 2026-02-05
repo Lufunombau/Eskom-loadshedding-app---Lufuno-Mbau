@@ -1,0 +1,7 @@
+Install required libraries (run ONCE)
+
+In the Command Prompt:
+
+pip install streamlit requests beautifulsoup4 pdfplumber
+python -m pip install streamlit requests beautifulsoup4 pdfplumber
+streamlit run "filepath.py"
